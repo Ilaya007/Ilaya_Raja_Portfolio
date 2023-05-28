@@ -24,7 +24,7 @@ Power BI dashboard image displayed below.
 
 <img src="image/power bi/sales bi_page-0001.jpg" alt="My Image">
 
-# [Project 3: "Tableau: Unveiling Reasons Behind Staff Attrition through Visualization of HR Data"](https://github.com/Ilaya007/Tableau/tree/main/project%20hr)
+# [Project 3: "Tableau: Unveiling Reasons Behind Staff Attrition through Visualization of HR Data"](https://public.tableau.com/app/profile/ilaya.raja/viz/HRanalystics_16797600593600/HRANALYSTICSDASHBOARD?publish=yes)
 * The data used in my project was sourced from a GitHub tutorial repository in Excel format.
 * Performed data cleaning, ETL, and data preparation using Excel and TCL formula language.
 * Created and published a dashboard using Tableau, showcasing the analysis online.
